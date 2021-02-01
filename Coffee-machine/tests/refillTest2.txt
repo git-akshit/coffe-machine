@@ -1,0 +1,7 @@
+refill = {
+        "hot_water5": 500,
+        "hot_milk5": 500,
+        "ginger_syrup5": 100,
+        "sugar_syrup5": 100,
+        "tea_leaves_syrup5": 100
+        }
